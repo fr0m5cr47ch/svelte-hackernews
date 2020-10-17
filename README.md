@@ -1,4 +1,4 @@
-#Svelte Hacker News
+# Svelte Hacker News
 
 deployed at [https://svelte-hn-luentcbb9.vercel.app](https://svelte-hn-luentcbb9.vercel.app)
 
